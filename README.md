@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 My name is Eric Balfour</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I'm a software engineer striving to impact the world one line of code at a time </h3>
 
 
