@@ -1,7 +1,6 @@
-<h1 align="center">Hello World 👋 My name is Eric Balfour</h1>
-<h3 align="center">I'm a software engineer striving to impact the world one line of code at a time</h3>
+<h1 align="center">Hi there! 👋 My name is Eric Balfour</h1>
+<h3 align="center">I'm a software engineer striving to impact the world one line of code at a time </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcuatro" alt="bcuatro" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
