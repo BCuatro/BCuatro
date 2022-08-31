@@ -6,7 +6,7 @@
        
 
 [AngelList](https://angel.co/u/eric-balfour)             
-[Linkedin](https://www.linkedin.com/in/eric-balfour/)
+[Linkedin](https://www.linkedin.com/in/eric-balfour/)        
 [Personal Website](https://bcuatro.github.io/Eric-Balfour/)
 
 
